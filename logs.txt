@@ -1,9 +1,11 @@
 [2018-02-04 20:23]	
 New changes
-Added timestamp option to the sublime text 3 
+Added time stamp option to the sublime text 3 
+using below link:
+https://gist.github.com/tpitale/11e5a2a152ec67a172f9
 
 [2018-02-06 18:31]	
-Added timestamp to the second computer
+Added time stamp to the second computer
 
 [2018-02-11 20:11]	
 Done some test with Git addin to the Pycharm
@@ -14,3 +16,6 @@ Started to learn from book called "Automate the Boring Stuff with Python"
 
 [2018-04-21 21:33]	
 chapter 1 - Your First Program
+
+[2018-05-05 13:28]	
+Done chapter 1, answered to the all questions at the end

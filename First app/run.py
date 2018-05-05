@@ -1,7 +1,5 @@
-print("Hello word")
-zmienna='Hello'
-print(zmienna)
-print('maciej')
-to_jest_dluga_zmienna=''
-print(to_jest_dluga_zmienna)
-print((2+3)*6)
+# This program says hello and asks for my name.
+print('Hello world!')
+liczba1=float(7.9)
+liczba2=input()
+print(int(liczba1+float(liczba2)))
